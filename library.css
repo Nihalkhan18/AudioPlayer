@@ -1,0 +1,70 @@
+
+.pn{
+    width: 50%;
+    padding: 1%;
+    border: 2px solid;
+    border-radius: 10px;
+    margin: 6%;
+    margin-left: 25%;
+    background-color: rgb(191, 222, 162);
+    
+}
+.pn input{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #9da2a1bc; /* Button background color */
+    color: #0f0e09; /* Button text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10%;
+    width: 80%;
+    
+}
+.pn input:hover{
+    background-color: #c7c6c5;
+}
+
+#pn0{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px; /* Adjust font size */
+    color: #584b4b;
+    margin-bottom: 15px;
+}
+#pn1{
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 5px;
+    color: #584b4b;
+
+}
+#pn2{
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 5px;
+    color: #584b4b;
+
+}
+audio {
+    background-color: #08090c; /* Set background color of the control panel */
+    border-radius: 3px; /* Add rounded corners */
+    box-shadow: 0 2px 5px rgba(27, 17, 17, 0.2); /* Add shadow for depth */
+    margin-left: 10%;
+    width: 80%;
+    color: aqua;
+
+
+}
+.pn ul{
+    background-color: rgb(233, 217, 217);
+    border-radius: 10px ;
+}
+.pn li:hover{
+    background-color: rgb(181, 201, 213);
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 10px;
+}
